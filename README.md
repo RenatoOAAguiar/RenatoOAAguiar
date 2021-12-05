@@ -1,14 +1,16 @@
 ### Hi! I'm Renato 😀
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-oliveira-alves-aguiar-776ba551/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_ObK3En_-Bo13siOiMUUoQ)
+Passionate about technology. Working as Full Stack Engineer and Data Engineer!
+
+- 🔭 I’m currently working as Data Engineer in my current Job, and working as Full Stack Engineer on freelancer jobs!
+- 🌱 I’m currently learning massively Flutter/Dart!
 
 <br/>
 
 [![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoOAAguiar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoOAAguiar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### **Working With**
 
@@ -23,11 +25,14 @@
 </div>
 <br/>
 
-Passionate about technology. Working as Full Stack Engineer and Data Engineer!
+### **Social Medias**
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-oliveira-alves-aguiar-776ba551/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_ObK3En_-Bo13siOiMUUoQ)
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoOAAguiar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
