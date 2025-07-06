@@ -3,8 +3,8 @@
 
 Passionate about technology. Working as Full Stack Engineer and Data Engineer!
 
-- 🔭 I’m currently working as Data Engineer in my current Job, and working as Full Stack Engineer on freelancer jobs!
-- 🌱 I’m currently learning massively Flutter/Dart!
+- 🔭 I’m currently working as Artificial Intelligence Consultant!
+- 🌱 Learning massively Flutter/Dart, and all things and stuff from AI!
 
 <br/>
 
